@@ -8,8 +8,8 @@
 ## Структура репозитория
 * poetry 
   * pre_revolutionary_poetry
-  * soviet era poetry
-  * modern poetry
+  * soviet_era_poetry
+  * modern_poetry
 * proze
   * soviet_era_proze
   * modern_proze
