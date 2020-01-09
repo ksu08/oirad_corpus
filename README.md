@@ -7,15 +7,14 @@
 
 ## Структура репозитория
 * poetry 
-  * pre_revolutionary_poetry
-  * soviet_era_poetry
-  * modern_poetry
+  * pre_revolutionary_poetry (дореволюционная поэзия)
+  * soviet_era_poetry (советская поэзия)
+  * modern_poetry (современная поэзия)
 * proze
-  * soviet_era_proze
-  * modern_proze
+  * soviet_era_proze (советская проза)
+  * modern_proze (современная проза)
 * folklore
-  * songs
-  * poems
-  * fairy_tails
-  * Jangar
-* religion
+  * folk_songs (народные песни)
+  * fairy_tails (сказки)
+  * Jangar (эпос Джангар)
+* religion (религиозная литература)
