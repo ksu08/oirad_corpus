@@ -15,6 +15,6 @@
   * modern_proze (современная проза)
 * folklore
   * folk_songs (народные песни)
-  * fairy_tails (сказки)
+  * fairy_tales (сказки)
   * Jangar (эпос Джангар)
 * religion (религиозная литература)
